@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: iOS bug report
 about: Create a report to help us improve
 title: ''
 labels: new
@@ -8,9 +8,16 @@ assignees: ''
 ---
 
 **Describe the bug**
+
 A clear and concise description of what the bug is.
 
+**Build information**
+
+* Discovered in: [v1.0 (103)]
+* Is this a regression?: [YES / NO / UNKOWN]
+
 **To Reproduce**
+
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
@@ -18,16 +25,18 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
+
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
+
 If applicable, add screenshots to help explain your problem.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone 6, Samsung Galaxy S5]
- - OS: [e.g. iOS 8.1, Android 7.1.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Device**
+
+ - Device: [e.g. iPhone XS]
+ - OS: [e.g. 13.3]
 
 **Additional context**
+
 Add any other context about the problem here.
