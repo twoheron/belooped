@@ -2,7 +2,7 @@
 name: iOS feature request
 about: Suggest an idea for this project
 title: ''
-labels: enhancement, new
+labels: enhancement, fresh, iOS
 assignees: ''
 
 ---
